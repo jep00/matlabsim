@@ -1,7 +1,5 @@
 # Matlab Simulation and Algebra Coursework
-This is a first year university coursework completed in 2018, uploaded after. It was my first major piece of coursework, and I recieved a grade of 90%. 
-
-In the file currently, there is the final report: at some point after I graduate, I'll come on and upload the MATLAB files.
+This is a first year university coursework completed in 2018, uploaded after. It was my first major piece of coursework, and I received a grade of 90%. 
  
 <b>The Task</b>
 
