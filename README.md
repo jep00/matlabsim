@@ -1,6 +1,8 @@
 # Matlab Simulation and Algebra Coursework
 This is a first year university coursework completed in 2018, uploaded after. It was my first major piece of coursework, and I received a grade of 90%. 
  
+<em>In hindsight, amongst other changes, I should have saved the images into a seperate folder, but we live and we learn. I would change it, but I feel its more genuine not to: this is the level I was at when I did this piece of work.</em>
+
 <b>The Task</b>
 
 <em>Task One: Collision-less Brownian Motion</em>
