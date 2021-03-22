@@ -1,0 +1,19 @@
+if x(i)==x(j) && i not= j; % Finds particles in the same location
+    
+    % The masses are the same, and the collisions are elastic
+    % Some temporary variables
+    vx(i)    = vxi;
+    vy(i)    = vyi;
+    theta(i) = theti;
+    vx(j)    = vxj;
+    vy(j)    = vyj;
+    theta(j) = thetj;
+    
+    % Swapping each velocity component of i and j, and the angles
+    vx(i)    = vxj;
+    vy(i)    = vyj;
+    theta(i) = thetj;
+    vx(j)    = vxi;
+    vy(j)    = vyi;
+    theta(j) = theti;
+end
