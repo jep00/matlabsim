@@ -70,10 +70,6 @@ tc=0;   % Resets the timer
 dtc=1;  % Time step 
 title('Task c')              % New title
 
-
-
-
-
 while tc<=100
     tc = tc+dtc;
     xc=xc+vxc*dtc;
@@ -96,10 +92,6 @@ while tc<=100
         saveas(gcf,filenamec)
     end    
 end
-
-
-
-
 
 %% Task d.
 
